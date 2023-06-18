@@ -24,11 +24,11 @@
 # 24 -> 4  16  4
 # 60 -> 10  40  10
 
-number = int(input('Введите количество журавликов: '))
-pety = number/6
-serega = pety
-kate = (pety + serega)*2
-print(f'Петя = {pety}, Сережа = {serega}, Катя = {kate}')
+# number = int(input('Введите количество журавликов: '))
+# pety = number/6
+# serega = pety
+# kate = (pety + serega)*2
+# print(f'Петя = {pety}, Сережа = {serega}, Катя = {kate}')
 
 
 
@@ -41,6 +41,19 @@ print(f'Петя = {pety}, Сережа = {serega}, Катя = {kate}')
 # 385916 -> yes
 # 123456 -> no
 
+number = int(input('Введите свой билет: '))
+a = number // 100
+b = number % 100 // 10
+c = number % 10
+zum1 = 
+d = 
+e = 
+f = 
+zum2 =
+if zum1 == zum2:
+    print('Yes')
+elif zum1 != zum2:
+    print('No')    
 
 
 
