@@ -25,7 +25,10 @@
 # 60 -> 10  40  10
 
 number = int(input('Введите количество журавликов: '))
-
+pety = number/6
+serega = pety
+kate = (pety + serega)*2
+print(f'Петя = {pety}, Сережа = {serega}, Катя = {kate}')
 
 
 
