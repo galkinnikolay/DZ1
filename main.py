@@ -41,21 +41,11 @@
 # 385916 -> yes
 # 123456 -> no
 
-number = int(input('Введите свой билет: '))
-a = number // 100
-b = number % 100 // 10
-c = number % 10
-zum1 = 
-d = 
-e = 
-f = 
-zum2 =
-if zum1 == zum2:
-    print('Yes')
-elif zum1 != zum2:
-    print('No')    
-
-
+# n = input('Введите билет с шестизначным номером: ')
+# if int(n[0]) + int(n[1]) + int(n[2]) == int(n[3]) + int(n[4]) + int(n[5]):
+#     print('Yes')
+# else:
+#     print('No')    
 
 
 # Задача 8: Требуется определить, можно ли от шоколадки размером n × m долек отломить k долек, 
